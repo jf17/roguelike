@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, roguelike!");
+    println!("Hello, roguelike game!");
 }
